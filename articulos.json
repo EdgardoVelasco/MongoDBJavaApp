@@ -1,0 +1,30 @@
+{
+    "nombre":"cafe",
+    "descripcion":"cafe de olla",
+    "precio":80.2
+}
+{
+    "nombre":"azucar",
+    "descripcion":"azucar morena",
+    "precio":70.5
+}
+{
+    "nombre":"jabon",
+    "descripcion":"rosa venus",
+    "precio":80.56
+}
+{
+    "nombre":"jamon",
+    "descripcion":"jamón de pavo ahumado",
+    "precio":75.1
+}
+{
+    "nombre":"leche",
+    "descripcion":"leche deslactosada",
+    "precio":40
+}
+{
+    "nombre":"yoghurt",
+    "descripcion":"yoghurt con fruta",
+    "precio":87.5
+}
